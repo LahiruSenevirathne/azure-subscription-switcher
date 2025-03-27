@@ -26,6 +26,10 @@ azsub
 azsub -s <subscription_id>
 ```
 
+## 🗒️ Example
+![](azsub-interactive-example.gif)
+
+
 ## 🛠 Requirements
 
 - **Azure CLI (**`az`**)** must be installed and logged in.
